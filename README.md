@@ -5,5 +5,8 @@
   <br><br>
 </p>
 
+Random things I want to remember:
+
 - [Zsh configuration](https://gist.github.com/antoniogamiz/196c7024cc8d24cd712d65f1106c3468).
 - [X-tile](https://www.giuspen.com/x-tile/)
+- [ADR](https://github.com/joelparkerhenderson/architecture_decision_record)
